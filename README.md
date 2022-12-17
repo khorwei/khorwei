@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Khor Wei</h1>
 <h3 align="center">An inquisitive and a passionate web developer from Malaysia!</h3>
 
-- 👀 I’m interested in web development especially front end! 
+- 👀 I’m interested in anything and currently learning Web development ! 
 
 - 🌱 I’m currently learning **MERN stack, React, vue and some javascript frameworks :)**
 
